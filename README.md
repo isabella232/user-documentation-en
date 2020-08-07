@@ -4,7 +4,7 @@ Here is the repository where you will find the documentation on how to create, m
 
 It hosts the 1.7 documentation on how to install PrestaShop and use each page of the back office, available in 6 languages: Dutch, English, French, Italian, Persian, and Spanish.
 
-This repository is synchronized with GitBook, a tool that allows creating modern and intuitive documentation pages. You can find the PrestaShop user documentation here: https://app.gitbook.com/@prestashop/space. Consequently, both interfaces (GitBook and GitHub) are open to contributions.
+This repository is synchronized with GitBook, a tool that allows creating modern and intuitive documentation pages. You can find the PrestaShop user documentation here: https://app.gitbook.com/@prestashop/spaces. Consequently, both interfaces (GitBook and GitHub) are open to contributions.
 
 By saying that this repository is synchronized with GitBook’s documentation, it means that edited contents are updated in real-time in GitHub and GitBook. If you change the content of any page on GitBook, your edits will be pushed to this repository. Conversely, commits pushed to this repository are imported on GitBook. 
 
