@@ -38,7 +38,7 @@ This is a ticket-tracker for this user documentation repository and the best pla
 
 And that's it: you have contributed to this open source project! Congratulations!
 
-:tada:
+🎉
 
 Interested in more translation? Join us on [Crowdin](https://crowdin.com/project/prestashop-official) to translate the software. ;-\)
 
