@@ -2,13 +2,6 @@
 
 **Table of contents**
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595595535277 {padding: 0px;}  
-div.rbtoc1595595535277 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595595535277 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Installing PrestaShop](installing-prestashop.md#InstallingPrestaShop-InstallingPrestaShop)
   * [Quick installation instructions](installing-prestashop.md#InstallingPrestaShop-Quickinstallationinstructions)
   * [Detailed instructions](installing-prestashop.md#InstallingPrestaShop-Detailedinstructions)
@@ -325,7 +318,7 @@ Finally, in order to close all potentially malicious doors, use your FTP client 
 
 **Congratulations! Installation is now complete.**
 
-Log in to the PrestaShop back office by going to your newly-renamed "admin" folder, and start filling your catalog with products, adding carriers and shipping costs, adding brands and suppliers, changing the theme, and generally configuring the many settings to suit your tastes and needs. See the user guide's "First steps with PrestaShop 1.7" chapter for more information: [http://doc.prestashop.com/display/PS17/First+steps+with+PrestaShop+1.7](http://doc.prestashop.com/display/PS17/First+steps+with+PrestaShop+1.7).
+Log in to the PrestaShop back office by going to your newly-renamed "admin" folder, and start filling your catalog with products, adding carriers and shipping costs, adding brands and suppliers, changing the theme, and generally configuring the many settings to suit your tastes and needs. See the user guide's "[First steps with PrestaShop 1.7](../user-guide/first-steps-with-prestashop-1.7.md)" chapter for more information.
 
 You should regularly back up your database and files, ideally on more than one computer, in case of problems related to hardware or security.
 

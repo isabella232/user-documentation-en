@@ -1,4 +1,4 @@
-# Stock overview
+# Stock Overview
 
 This tab contains a table presenting your products' stock, as well as search options and allows you to directly edit your products' quantities.
 

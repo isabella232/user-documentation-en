@@ -1,12 +1,5 @@
 # Positions
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595595739501 {padding: 0px;}  
-div.rbtoc1595595739501 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595595739501 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Front office Positions](positions.md#Positions-FrontofficePositions)
   * [Moving a module within a hook](positions.md#Positions-Movingamodulewithinahook)
   * [Attaching a module to a hook: Transplanting](positions.md#Positions-Attachingamoduletoahook:Transplanting)

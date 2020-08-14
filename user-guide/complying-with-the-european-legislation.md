@@ -2,13 +2,6 @@
 
 **Table of contents**
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595595747418 {padding: 0px;}  
-div.rbtoc1595595747418 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595595747418 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Introduction](complying-with-the-european-legislation.md#ComplyingwiththeEuropeanlegislation-Introduction)
 * [Why you should bother about it](complying-with-the-european-legislation.md#ComplyingwiththeEuropeanlegislation-Whyyoushouldbotheraboutit)
 * [How to configure your shop](complying-with-the-european-legislation.md#ComplyingwiththeEuropeanlegislation-Howtoconfigureyourshop)

@@ -2,13 +2,6 @@
 
 Its title says it all: the "Theme & Logo" page enables you to efficiently manage your themes, and this where you go if you want to update your logo.
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595595738859 {padding: 0px;}  
-div.rbtoc1595595738859 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595595738859 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Adaptation to Right-to-Left \(RTL\) languages](theme-and-logo.md#ThemeandLogo-AdaptationtoRight-to-Left%28RTL%29languages)
 * [Logos](theme-and-logo.md#ThemeandLogo-Logos)
 * [Your current theme](theme-and-logo.md#ThemeandLogo-Yourcurrenttheme)

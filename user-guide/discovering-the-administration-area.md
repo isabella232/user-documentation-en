@@ -2,13 +2,6 @@
 
 **Table of contents**
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595595630475 {padding: 0px;}  
-div.rbtoc1595595630475 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595595630475 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Discovering the Administration Area](discovering-the-administration-area.md#DiscoveringtheAdministrationArea-DiscoveringtheAdministrationArea)
   * [Overview of the main interface](discovering-the-administration-area.md#DiscoveringtheAdministrationArea-Overviewofthemaininterface)
     * [The top bar](discovering-the-administration-area.md#DiscoveringtheAdministrationArea-Thetopbar)

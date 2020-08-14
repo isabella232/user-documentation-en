@@ -6,13 +6,6 @@ The “Selection” tab is about discovering new modules and service to improve 
 
 This selection of recommended modules is based on your country, language, and version of PrestaShop. It includes the most popular modules from our Addons marketplace and free partner modules.
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595595738509 {padding: 0px;}  
-div.rbtoc1595595738509 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595595738509 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Searching for a module or service](modules-selection.md#ModulesSelection-Searchingforamoduleorservice)
   * [Filtering modules](modules-selection.md#ModulesSelection-Filteringmodules)
   * [Displaying results](modules-selection.md#ModulesSelection-Displayingresults)

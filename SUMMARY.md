@@ -1,6 +1,7 @@
 # Table of contents
 
-* [English documentation](README.md)
+* [User Documentation](README.md)
+* [English documentation](english-documentation.md)
 * [Getting started](getting-started/README.md)
   * [What you need to get started](getting-started/what-you-need-to-get-started.md)
   * [Installing PrestaShop](getting-started/installing-prestashop.md)
@@ -34,7 +35,7 @@
         * [Cart Rules](user-guide/selling-with-prestashop/managing-your-product-catalog/managing-discounts/cart-rules.md)
         * [Catalog Price Rules](user-guide/selling-with-prestashop/managing-your-product-catalog/managing-discounts/catalog-price-rules.md)
       * [Managing Stock](user-guide/selling-with-prestashop/managing-your-product-catalog/managing-stock/README.md)
-        * [Stock overview](user-guide/selling-with-prestashop/managing-your-product-catalog/managing-stock/stock-overview.md)
+        * [Stock Overview](user-guide/selling-with-prestashop/managing-your-product-catalog/managing-stock/stock-overview.md)
         * [Stock Movements](user-guide/selling-with-prestashop/managing-your-product-catalog/managing-stock/stock-movements.md)
     * [Managing your Customers](user-guide/selling-with-prestashop/managing-your-customers/README.md)
       * [Your customers](user-guide/selling-with-prestashop/managing-your-customers/your-customers.md)

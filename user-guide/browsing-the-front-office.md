@@ -2,13 +2,6 @@
 
 **Table of content**
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595595747563 {padding: 0px;}  
-div.rbtoc1595595747563 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595595747563 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Browsing the front office](browsing-the-front-office.md#Browsingthefrontoffice-Browsingthefrontoffice)
   * [The default theme](browsing-the-front-office.md#Browsingthefrontoffice-Thedefaulttheme)
   * [Navigating the shop](browsing-the-front-office.md#Browsingthefrontoffice-Navigatingtheshop)
@@ -60,14 +53,14 @@ It contains several essential tools and links, which apply to the whole shop and
 
 A thin container with:
 
-* * A link to the **contact page**.
-  * The **language** \(if more than one language is available\). The customer can choose the language in which the shop should display texts.
-  * The **currency** selectors \(if more than one currency is available\). The customer can choose the currency in which the shop should display prices. This is great in order to compare prices with other international shops.
-  * A link to the **sign-up page**. When the customer is logged in, it displays his first name and last name as a link to the customer's account.
+* A link to the **contact page**.
+* The **language** \(if more than one language is available\). The customer can choose the language in which the shop should display texts.
+* The **currency** selectors \(if more than one currency is available\). The customer can choose the currency in which the shop should display prices. This is great in order to compare prices with other international shops.
+* A link to the **sign-up page**. When the customer is logged in, it displays his first name and last name as a link to the customer's account.
 
-    Once connected, the customers is taken to the "Your account" page, and a "Sign out" link appears.
+  Once connected, the customers is taken to the "Your account" page, and a "Sign out" link appears.
 
-  * **Cart \(0\)**. A quick reminder of the current status of the customer's cart \(by default it is "\(0\)" for empty\). Sometimes customers select items while browsing and forget about them after a few pages. It is therefore essential to give them a way to keep these products in mind.
+* **Cart \(0\)**. A quick reminder of the current status of the customer's cart \(by default it is "\(0\)" for empty\). Sometimes customers select items while browsing and forget about them after a few pages. It is therefore essential to give them a way to keep these products in mind.
 
 A larger container with:
 

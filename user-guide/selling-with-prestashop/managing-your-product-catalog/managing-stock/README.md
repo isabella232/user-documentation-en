@@ -1,7 +1,7 @@
 # Managing Stock
 
-*  [Stock overview](/display/PS17/Stock+overview)
-*  [Stock Movements](/display/PS17/Stock+Movements)
+*  [Stock Overview](stock-overview.md)
+*  [Stock Movements](stock-movements.md)
 
 You can manage your stock in your shop using the "Stock" page, in the "Catalog" menu. No set-up is required to activate stock management.
 

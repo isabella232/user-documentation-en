@@ -1,9 +1,5 @@
 # User Guide
 
-| PrestaShop 1.7 User-Guide |
-| :--- |
-
-
 PrestaShop presents a comprehensive, intuitive user administration panel, and gives you hundreds of standard functions that can be adapted or personalized in order to respond to all of your needs.
 
 This user guide will help you familiarize yourself with all of PrestaShop’s features. You will also be able to efficiently manage your PrestaShop site. While the majority of it is aimed at shop owners, the first chapter serves as an introduction to the front office interface, which can be helpful to everyone.

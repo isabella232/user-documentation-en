@@ -1,12 +1,5 @@
 # Sample Usages and Specifics
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595595747316 {padding: 0px;}  
-div.rbtoc1595595747316 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595595747316 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Sample Usages and Specifics](sample-usages-and-specifics.md#SampleUsagesandSpecifics-SampleUsagesandSpecifics)
   * [Managing a catalog in multistore mode](sample-usages-and-specifics.md#SampleUsagesandSpecifics-Managingacataloginmultistoremode)
   * [Data exchange between stores](sample-usages-and-specifics.md#SampleUsagesandSpecifics-Dataexchangebetweenstores)

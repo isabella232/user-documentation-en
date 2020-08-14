@@ -2,13 +2,6 @@
 
 **Table of content**
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595595535754 {padding: 0px;}  
-div.rbtoc1595595535754 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595595535754 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Misc. information](misc.-information.md#Misc.information-Misc.information)
   * [Keep a test version at hand!](misc.-information.md#Misc.information-Keepatestversionathand!)
   * [Checking for the GD library](misc.-information.md#Misc.information-CheckingfortheGDlibrary)

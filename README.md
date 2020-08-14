@@ -1,4 +1,4 @@
-# English documentation
+# User Documentation
 
 ## About the user documentation
 
