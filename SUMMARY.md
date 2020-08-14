@@ -148,7 +148,6 @@
   * [Views within PrestaShop](developer-documentation/views-within-prestashop.md)
   * [Managing Cookies](developer-documentation/managing-cookies.md)
   * [Managing Hooks](developer-documentation/managing-hooks.md)
-  * [PrestaShop 1.7 : Developer documentation](developer-documentation/prestashop-1.7-developer-documentation.md)
 * [Theme Developer Guide](theme-developer-guide-1/README.md)
   * [Asset Management](theme-developer-guide-1/asset-management.md)
   * [Essential information](theme-developer-guide-1/essential-information.md)
