@@ -43,7 +43,7 @@ At the top of the page is a quick summary of the order: date it has been validat
 
 The detail sheet of the order gives you access to:
 
-* On the left, order information: 
+* On the left, order information:
   * The status and status history of the order.
   * The shipping information: total weight of order and carrier chosen by the customer.
 * On the right, customer information:
