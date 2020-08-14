@@ -6,22 +6,22 @@
   * [The default theme](browsing-the-front-office.md#Browsingthefrontoffice-Thedefaulttheme)
   * [Navigating the shop](browsing-the-front-office.md#Browsingthefrontoffice-Navigatingtheshop)
     * [The header](browsing-the-front-office.md#Browsingthefrontoffice-Theheader)
-      * [The cart](browsing-the-front-office.md#Browsingthefrontoffice-Thecart)
+      * [The cart](browsing-the-front-office.md#Browsingthefrontoffice-Theheader)
     * [The footer](browsing-the-front-office.md#Browsingthefrontoffice-Thefooter)
     * [The left column](browsing-the-front-office.md#Browsingthefrontoffice-Theleftcolumn)
-      * [Categories block](browsing-the-front-office.md#Browsingthefrontoffice-Categoriesblock)
-      * [Faceted navigation](browsing-the-front-office.md#Browsingthefrontoffice-Facetednavigation)
+      * [Categories block](browsing-the-front-office.md#Browsingthefrontoffice-Theleftcolumn)
+      * [Faceted navigation](browsing-the-front-office.md#Browsingthefrontoffice-Theleftcolumn)
     * [The central section](browsing-the-front-office.md#Browsingthefrontoffice-Thecentralsection)
-      * [The front page](browsing-the-front-office.md#Browsingthefrontoffice-Thefrontpage)
-      * [Product listing pages](browsing-the-front-office.md#Browsingthefrontoffice-Productlistingpages)
-        * [Category header: image and image map](browsing-the-front-office.md#Browsingthefrontoffice-Categoryheader:imageandimagemap)
-        * [Product sorting](browsing-the-front-office.md#Browsingthefrontoffice-Productsorting)
-        * [Product page](browsing-the-front-office.md#Browsingthefrontoffice-Productpage)
-      * [The cart page](browsing-the-front-office.md#Browsingthefrontoffice-Thecartpage)
+      * [The front page](browsing-the-front-office.md#Browsingthefrontoffice-Thecentralsection)
+      * [Product listing pages](browsing-the-front-office.md#Browsingthefrontoffice-Thecentralsection)
+        * [Category header: image and image map](browsing-the-front-office.md#Browsingthefrontoffice-Thecentralsection)
+        * [Product sorting](browsing-the-front-office.md#Browsingthefrontoffice-Thecentralsection)
+        * [Product page](browsing-the-front-office.md#Browsingthefrontoffice-Thecentralsection)
+      * [The cart page](browsing-the-front-office.md#Browsingthefrontoffice-Thecentralsection)
   * [Creating a customer account](browsing-the-front-office.md#Browsingthefrontoffice-Creatingacustomeraccount)
   * [Buying a product](browsing-the-front-office.md#Browsingthefrontoffice-Buyingaproduct)
 
-## Browsing the front office <a id="Browsingthefrontoffice-Browsingthefrontoffice"></a>
+## Browsing the front office
 
 The front office is what customers constantly see when browsing your shop. It is the interface, the products, the pictures, the descriptions, the whole purchase process, etc.
 
