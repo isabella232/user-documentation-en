@@ -1,12 +1,5 @@
 # Essential information
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595603867235 {padding: 0px;}  
-div.rbtoc1595603867235 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595603867235 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Essential information](essential-information.md#Essentialinformation-Essentialinformation)
   * [Requirements](essential-information.md#Essentialinformation-Requirements)
   * [Coding standard and guidelines](essential-information.md#Essentialinformation-Codingstandardandguidelines)

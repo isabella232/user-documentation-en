@@ -5,5 +5,5 @@
 * [Getting started](getting-started/)
 * [User Guide](user-guide/)
 * [Developer documentation](developer-documentation/)
-* [Theme Developer Guide](theme-developer-guide-1/)
+* [Theme Developer Guide](theme-developer-guide/)
 

@@ -1,12 +1,5 @@
 # Getting started with theme development
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595603867286 {padding: 0px;}  
-div.rbtoc1595603867286 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595603867286 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Setting up your local environment](getting-started-with-theme-development.md#Gettingstartedwiththemedevelopment-Settingupyourlocalenvironment)
   * [Installing PrestaShop](getting-started-with-theme-development.md#Gettingstartedwiththemedevelopment-InstallingPrestaShop)
   * [Building your .gitignore file](getting-started-with-theme-development.md#Gettingstartedwiththemedevelopment-Buildingyour.gitignorefile)

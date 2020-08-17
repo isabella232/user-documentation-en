@@ -6,13 +6,6 @@ While those tools will help all designers and developers in the long run, there 
 
 This page is here to help! It will browse through the toolset, so that you know what the rest of the documentation is talking about :\)
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1595603867336 {padding: 0px;}  
-div.rbtoc1595603867336 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1595603867336 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [Tooling prerequisites for theme designers](tooling-prerequisites-for-theme-designers.md#Toolingprerequisitesforthemedesigners-Toolingprerequisitesforthemedesigners)
   * [Which tools are we talking about?](tooling-prerequisites-for-theme-designers.md#Toolingprerequisitesforthemedesigners-Whichtoolsarewetalkingabout?)
   * [Before we get started: using the command line](tooling-prerequisites-for-theme-designers.md#Toolingprerequisitesforthemedesigners-Beforewegetstarted:usingthecommandline)
