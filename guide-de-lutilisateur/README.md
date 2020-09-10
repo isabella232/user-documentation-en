@@ -6,7 +6,7 @@ PrestaShop propose une interface complète et intuitive, donnant accès à des c
 
 Ce guide utilisateur vous aidera à vous familiariser avec toutes les fonctionnalités de PrestaShop. Il vous apprendra également à gérer efficacement votre site PrestaShop. Tandis que la majorité du contenu est destinée aux propriétaires de boutique en ligne, le premier chapitre sert d'introduction à l'interface utilisateur, ce qui peut se révéler utile pour tous.
 
-Vous pouvez poser vos questions directement sur notre forum, [http://www.prestashop.com/forums/](http://www.prestashop.com/forums/)
+Vous pouvez poser vos questions directement sur notre forum, [http://www.prestashop.com/forums/](http://www.prestashop.com/forums/).
 
 Chapitres de ce guide :
 
