@@ -1,7 +1,7 @@
-# Documentation française
+# Documentación española
 
-## Documentation en français pour PrestaShop 1.7
+## Documentación española para PrestaShop 1.7
 
-* [Guide de démarrage PrestaShop 1.7](guide-de-demarrage-prestashop-1.7/)
-* [Guide de l'utilisateur](guide-de-lutilisateur/)
+* [Empezando con PrestaShop 1.7](empezando-con-prestashop-1.7/)
+* [Guía del Usuario](guia-del-usuario/)
 
