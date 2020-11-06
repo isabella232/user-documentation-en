@@ -1,13 +1,5 @@
 # Ce dont vous avez besoin
 
-* [Instructions de configuration rapides](ce-dont-vous-avez-besoin.md#Cedontvousavezbesoin-Instructionsdeconfigurationrapides)
-* [Instructions de configuration détaillées](ce-dont-vous-avez-besoin.md#instructions-de-configuration-detaillees)
-  * [Enregistrer un nom de domaine](ce-dont-vous-avez-besoin.md#Cedontvousavezbesoin-Enregistrerunnomdedomaine)
-  * [Trouver un hébergeur](ce-dont-vous-avez-besoin.md#trouver-un-hebergeur)
-  * [Pré-requis techniques](ce-dont-vous-avez-besoin.md#pre-requis-techniques)
-  * [Outils](ce-dont-vous-avez-besoin.md#Cedontvousavezbesoin-Outils)
-* [Se préparer](ce-dont-vous-avez-besoin.md#se-preparer)
-
 ## Instructions de configuration rapides <a id="Cedontvousavezbesoin-Instructionsdeconfigurationrapides"></a>
 
 Voici une synthèse de ce dont vous avez besoin pour commencer l’installation de PrestaShop 1.7. Vous trouverez, si nécessaire, des instructions plus détaillées dans les sections suivantes.
