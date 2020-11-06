@@ -1,6 +1,10 @@
-# Installer PrestaShop 1.7 en ligne de commande
+---
+description: >-
+  PrestaShop propose également un installateur pour les installations de ligne
+  de commande.
+---
 
-PrestaShop propose également un installateur pour les installations de ligne de commande. 
+# Installer PrestaShop 1.7 en ligne de commande
 
 ## De quoi s’agit-il ? <a id="InstallerPrestaShop1.7enlignedecommande-Dequois&#x2019;agit-il?"></a>
 
